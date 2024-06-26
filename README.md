@@ -6,9 +6,10 @@ check it out here in action:- []
 
 Technologies Used:
 
-HTML
-CSS
-JavaScript
-Locomotive Scroll
-GSAP
-Shery.js
+
+HTML,
+CSS,
+JavaScript,
+Locomotive Scroll,
+GSAP,
+Shery.js,
