@@ -12,4 +12,4 @@ CSS,
 JavaScript,
 Locomotive Scroll,
 GSAP,
-Shery.js,
+Shery.js
