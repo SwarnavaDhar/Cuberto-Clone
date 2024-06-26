@@ -4,17 +4,11 @@ It was an incredible learning journey and a fun way to enhance my skills. ðŸš€âœ
 
 check it out here in action:- []
 
-
 Technologies Used:
 
 HTML
-
 CSS
-
 JavaScript
-
 Locomotive Scroll
-
 GSAP
-
 Shery.js
